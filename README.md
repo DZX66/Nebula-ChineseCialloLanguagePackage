@@ -20,7 +20,19 @@
 
 0. 下载本附加包和Nebula on the ship
 1. 安装Nebula on the ship
-1.5. 启动游戏（如果是安装模组后的第一次启动的话）
-2. 然后打开游戏根目录
-3. 打开Addons文件夹
-4. 将下载到的zip放进去再打开游戏即可。
+2. 启动游戏（如果是安装模组后的第一次启动的话）
+3. 然后打开游戏根目录
+4. 打开Addons文件夹
+5. 将下载到的zip放进去再打开游戏即可。
+
+# 翻译参考
+
+- 百度翻译
+- [官方wiki](https://dolly1016.github.io/NebulaWiki/index.html)
+- [全网最全的星云舰282职业介绍！！ - bilibili](https://www.bilibili.com/video/BV1yFn9eNE5Y/)
+- 自己的复杂成分
+
+# tips
+
+- 若有错误翻译或不妥的翻译还请指出（在issue区）
+- 也欢迎提交PR
