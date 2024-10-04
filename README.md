@@ -1,61 +1,26 @@
-# Nebula on the Ship
+# ChineseCiallo中文机翻润色包
 
 <p align="center">
-This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
+本附加包不隶属于Among Us或Innersloth LLC，其中包含的内容不受Innersloth LLC的认可或以其他方式赞助。其中包含的部分材料是Innersloth LLC的财产。©Innersloth LLC。
 </p>
 
-# 導入方法
+# 兼容版本
+<table>
+    <tr align="center">
+        <td>附加包版本</td>
+        <td>NoS版本</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td><a href="https://github.com/Dolly1016/Nebula/releases/tag/s%2CSnapshot_24.10.04a%2C105%2C1225">Snapshot 24.10.04a</a></td>  
+    </tr>
+</table>
 
-インストーラから導入できます。インストールに際して、Among Usを所有している必要があります。\
-ダウンロードはこちらから。 [NoS インストーラ](https://github.com/Dolly1016/Nebula/releases/download/v%2Cv2.4.2.3%2C104%2C1143/Nebula_on_the_Ship_Setup.exe)
+# 如何安装
 
-### Among Usの実行ファイルの探し方
-SteamからAmong Usの実行ファイルがある場所を見つけてください。(Steamのゲームライブラリ⇒左サイドメニューから Among Us を右クリック⇒プロパティ⇒インストール済みファイル⇒参照)\
-実行ファイルが格納されているAmong Us<ins>フォルダ</ins>を同階層にコピーし、適当にリネーム("Among Us Nebula"など)してください。\
-\
-初回の起動には1分ほど時間がかかることもあります。
-
-# Wiki
-
-Nebula on the Shipが追加する役職等に関する情報を掲載しています。 [Wikiはこちら](https://dolly1016.github.io/NebulaWiki)
-
-# ご利用に関する留意点
-このMODはオリジナルの要素もありながら、The Other Rolesをはじめ多くのMODのアイデアを継承しています。\
-クレジットはこのページに掲載しておりますので、ご紹介下さる際には、\
-直のダウンロードリンクではなく、このページへのリンクを掲載していただくようお願いいたします。
-
-動画や配信でご使用下さる際は、VanillaのAmong Usであるとの誤解を生まないよう、\
-MODを使用している旨を分かりやすくご掲載のうえお使いください。\
-また、このMODについてもご紹介下さいましたら幸いです。\
-併用しているMODがあれば、その使用許諾等についてもそれぞれご確認ください。
-
-
-# Twitter
-[開発者Twitter](https://twitter.com/NebulaOnTheShip)\
-更新情報やちょっとした裏話などなどを掲載しています。ぜひフォローよろしくお願いいたします！
-
-# Discord
-バグ報告などの情報交換は[こちら](https://discord.gg/kHNZD4pq9E)でお願いいたします。\
-感想もお寄せくださいますととても嬉しいです。励みになります。
-
-# E-Mail
-お問い合わせは[nebula.on.the.ship@gmail.com](nebula.on.the.ship@gmail.com)まで。
-
-# クレジットとリソース
-
-いずれも、敬称略
-
-### Illust.
-- かつどん
-- セオノ
-- Dolly
-
-### Source Code
-
-[BepInEx](https://github.com/BepInEx) ゲームの関数をフックするために使用しています。\
-
-### Idea
-
-[The Other Roles](https://github.com/Eisbison/TheOtherRoles) このMODの着想の根源はここからのものです。また、クレジットの掲載の為、一部の画像を借用しています。\
-[TheOtherRoles: GM Edition](https://github.com/yukinogatari/TheOtherRoles-GM) MadmateのアイデアはこのMODからのものです。\
-[Town Of Impostors](https://github.com/Town-of-Impostors/TownOfImpostors) Sniper,Necromancer,MayorのアイデアはこのMODからのものです。
+0. 下载本附加包和Nebula on the ship
+1. 安装Nebula on the ship
+1.5. 启动游戏（如果是安装模组后的第一次启动的话）
+2. 然后打开游戏根目录
+3. 打开Addons文件夹
+4. 将下载到的zip放进去再打开游戏即可。
