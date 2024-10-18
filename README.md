@@ -14,6 +14,10 @@
         <td>1.1</td>
         <td><a href="https://github.com/Dolly1016/Nebula/releases/tag/s%2CSnapshot_24.10.04a%2C105%2C1225">Snapshot 24.10.04a</a></td>  
     </tr>
+    <tr>
+        <td>1.2</td>
+        <td><a href="https://github.com/Dolly1016/Nebula/releases/tag/v%2Cv2.11.0.1%2C105%2C1231">2.11.0.1</a></td>  
+    </tr>
 </table>
 
 # 如何安装
