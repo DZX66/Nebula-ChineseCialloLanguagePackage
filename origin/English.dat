@@ -53,6 +53,8 @@
 "ui.discordWebhook.determine" : "Determine"
 "ui.discordWebhook.send" : "Send"
 "ui.dragAndDrop" : "Drag & Drop The File Here"
+"ui.costume.missedCostume" : "Unowned global costume"
+"ui.costume.unownedCostume" : "Unowned global costume"
 
 "ui.attribute.accel" : "You can move faster."
 "ui.attribute.decel" : "You move more slowly."
@@ -1593,6 +1595,9 @@
 "marketplace.type.cosmetics" : "Cosmetics"
 "marketplace.searchMore.addons" : "Search more addons by "%QUERY%""
 "marketplace.searchMore.cosmetics" : "Search more cosmetics by "%QUERY%""
+"marketplace.ui.marketplace.state" : "State"
+"marketplace.ui.marketplace.state.owning" : "Activated"
+"marketplace.ui.marketplace.state.unowning" : "Unactivated"
 
 # Role Filter
 
