@@ -19,8 +19,12 @@
         <td><a href="https://github.com/Dolly1016/Nebula/releases/tag/v%2Cv2.11.0.1%2C105%2C1231">2.11.0.1</a></td>  
     </tr>
     <tr>
-        <td>1.21，1.3</td>
+        <td>1.21,1.3</td>
         <td><a href="https://github.com/Dolly1016/Nebula/releases/tag/s%2CSnapshot_24.10.24a%2C105%2C1235">Snapshot 24.10.24a</a></td>  
+    </tr>
+    <tr>
+        <td>1.4</td>
+        <td><a href="https://github.com/Dolly1016/Nebula/releases/tag/v,v2.11.1.1,105,1237">ver 2.11.1.1</a></td>  
     </tr>
 </table>
 

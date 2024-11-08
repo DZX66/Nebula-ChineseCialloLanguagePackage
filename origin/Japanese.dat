@@ -53,7 +53,7 @@
 "ui.discordWebhook.send" : "送信"
 "ui.dragAndDrop" : "ドラッグ&ドロップで画像を選択"
 "ui.costume.missedCostume" : "他プレイヤーのコスチュームを表示するには<br>グローバルコスチュームの有効化が必要です！<br><br>クリックして開く画面から不足したグローバルコスチュームを追加できます。"
-"ui.costume.unownedCostume" : "不足したグローバルコス一覧"
+"ui.costume.unownedCostume" : "不足グローバルコス一覧"
 
 "ui.attribute.accel" : "移動速度上昇"
 "ui.attribute.decel" : "移動速度低下"
